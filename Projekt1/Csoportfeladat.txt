@@ -1,0 +1,8 @@
+- Téma: IT területen lévő "dolog" feldolgozása
+- Min. 4 oldal (ebből 2 kötelező: Kezdőlap,Kapcsolat)
+- Menü (A menüben az elkészített logó)
+- Css/design
+- Kapcsolati oldalon: Ürlap, csapattagok
+- Min. 1 oldalai: Kép, Táblázat, Címsorok (h1-6), félkövér betűstílus, felsorolás
+- Tagolás
+- Github-ra feltölteni
